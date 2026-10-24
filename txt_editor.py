@@ -18,7 +18,7 @@ def save_file():
 
 root = tk.Tk()
 root.title("Aditya's Txt Editor")
-root.geometry("800x600")
+root.geometry("790x600")
 
 menu = tk.Menu(root)
 root.config(menu=menu)
