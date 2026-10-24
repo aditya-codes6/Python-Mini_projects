@@ -4,7 +4,7 @@
 # Electricity bill 
 # Charge per unit 
 # Total amount you have to pay
-# Total person 
+# Total person who shares the bill
 
 #                    START                      #
  
