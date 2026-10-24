@@ -1,4 +1,6 @@
 
+# checks spelling of the given words to the closest match
+
 import difflib
 
 words = ["hello", "world", "python", "programming", "beautiful",
