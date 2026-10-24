@@ -1,3 +1,5 @@
+#random module for random computer decisions
+
 import random
 item_list = ["rock","scissor","paper"]
 user = input("Enter you move [rock,paper,scissor]")
