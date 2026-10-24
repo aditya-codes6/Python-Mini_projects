@@ -1,3 +1,6 @@
+# tkinter for gui
+
+
 import tkinter as tk 
 from time import strftime
 
