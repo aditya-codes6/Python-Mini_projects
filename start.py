@@ -65,7 +65,7 @@
 
 
 # # # # # name = input("What is your name ?")
-# # # # # print(f"Good afternoon sir/madam {name}" )
+# # # # # print(f"Good afternoon   sir/madam {name}" )
 
 
 # # # # name = "Aaditya is a \"human\" "
